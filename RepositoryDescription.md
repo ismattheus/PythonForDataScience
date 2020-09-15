@@ -9,3 +9,4 @@ This respository contais the next notebooks from the labs of the course named ab
 4. PY101EN-2-2-Lists.ipynb (Introduction to Python lists)
 5. PY101EN-2-3-Dictionaries.ipynb (Introduction to Python dictionaries)
 6. PY101EN-2-4-Sets.ipynb (Introduction to Python sets)
+7. PY101EN-3-1-Conditions.ipynb (Introduction to Python conditions)
