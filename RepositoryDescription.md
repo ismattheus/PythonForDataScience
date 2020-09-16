@@ -14,3 +14,4 @@ This respository contais the next notebooks from the labs of the course named ab
 9. PY101EN-3-3-Functions.ipynb (Introduction to Python functions)
 10. PY101EN-3-4-Classes.ipynb (Introduction to Python classes)
 11. PY101EN-4-1-ReadFile.ipynb THIS NOTEBOOK IS NOT WORKING
+12. PY101EN -4-2-WriteFile.ipynb (Introduction to write files in Python)
