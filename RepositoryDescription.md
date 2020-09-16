@@ -15,3 +15,4 @@ This respository contais the next notebooks from the labs of the course named ab
 10. PY101EN-3-4-Classes.ipynb (Introduction to Python classes)
 11. PY101EN-4-1-ReadFile.ipynb THIS NOTEBOOK IS NOT WORKING
 12. PY101EN -4-2-WriteFile.ipynb (Introduction to write files in Python)
+13. Lab - Pandas with IBM Watson Studio (Introduction to Python pandas)
